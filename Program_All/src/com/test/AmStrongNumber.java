@@ -3,6 +3,8 @@ package com.test;
 import java.util.Scanner;
 
 public class AmStrongNumber {
+	//this is my first comment.
+	/////////////////////////////////////////////////////
 	public static void main(String[] args) {
 		int sum=0,mod,temp;
 		Scanner sc= new Scanner(System.in);
